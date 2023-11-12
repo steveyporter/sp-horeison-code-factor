@@ -86,7 +86,8 @@ p {
     background-color: #2589bd;
 }
 
-/* Rationalised 3 benefit sections into one called 'benefit-inner. Similar changes made to dependent h3 and img classes */
+/* Rationalised 3 benefit sections into one called 'benefit-inner'. Similar changes made to dependent h3 and img classes */
+
 .benefit-inner {
     margin-bottom: 32px;
     color: #ffffff;
@@ -103,7 +104,9 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/* Rationalised 3 main inner sections into one called 'main-inner'. Similar changes made to dependent h2 and img classes */
+
+.main-inner {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,50 +115,15 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.main-inner img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.main-inner h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
